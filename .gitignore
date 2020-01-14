@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#myself
+.mypy_cache
+*.pt
+*.gz
+memae/data/
