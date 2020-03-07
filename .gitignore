@@ -134,3 +134,4 @@ dmypy.json
 *.pt
 *.gz
 memae/data/
+.vscode/settings.json
