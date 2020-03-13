@@ -48,7 +48,7 @@
 
 5、尝试基于图像视觉思想解决问题，可以从ChangeDetection+self supervised learning+transfer learning考虑。
 
-![image](imgs/7.jpeg)
+![image](imgs/7.jpg)
 ![image](imgs/BP202190822100682_3_3.jpg)
 
 6、基于图像修复方法进行
