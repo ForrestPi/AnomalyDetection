@@ -1,6 +1,4 @@
-# Author：马肖
-# E-mail：maxiaoscut@aliyun.com
-# Github：https://github.com/Albertsr
+
 
 import numpy as np
 from numpy import linalg as LA
