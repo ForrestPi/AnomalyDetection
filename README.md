@@ -11,3 +11,4 @@ Anomaly Detection in computer vision
 
 ## some resources about anomaly detection
 [resources](./resources.md)
+[projects](./projects.md)
