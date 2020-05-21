@@ -2,7 +2,7 @@
 
 
 ## Architecture
-![img](./imgs/advae.png)
+![img](https://github.com/YeongHyeon/adVAE/blob/master/figures/advae.png)
 
 
 ## Reference
